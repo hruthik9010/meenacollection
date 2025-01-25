@@ -7,7 +7,7 @@ products = [
     {"name": "Silk Saree", "price": "₹2500", "image": "/static/images/silk-saree.jpg"},
     {"name": "Cotton Saree", "price": "₹1500", "image": "/static/images/cotton-saree.jpg"},
     {"name": "Designer Lehenga", "price": "₹5000", "image": "/static/images/lehenga.jpg"},
-]
+ ]
 
 @app.route('/')
 def home():
